@@ -42,5 +42,5 @@ while True:
 
 print("You won", user_wins, "times.")
 print("The computer won", computer_wins, "times.")
-print("You drew", draws, "times.")
+print("You drew with the computer", draws, "times.")
 print("Goodbye!")
