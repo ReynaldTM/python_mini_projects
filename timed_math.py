@@ -3,7 +3,7 @@ import time
 
 
 OPERATORS = ["+", "-", "*"]
-MIN_OPERAND = 3
+MIN_OPERAND = 3 # permanent, unchanging variables
 MAX_OPERAND = 12
 TOTAL_PROBLEM = 10
 
